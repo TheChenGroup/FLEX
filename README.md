@@ -1,2 +1,2 @@
-# FLEX
-fluctuation exchange approximation
+# ssFLEX
+stable and scalable FLuctuation EXchange approximation
